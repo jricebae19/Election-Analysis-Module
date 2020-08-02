@@ -30,5 +30,5 @@ The winner of the election was Diane DeGetter with 73.8% of the vote and 272,892
 ## Challenge Overview
 To utilize Python to achieve the election results and also utilizing Visual Studio Code to write out our Python code.
 
-## Challeneg Summary
+## Challenge Summary
 To successfully utilize both systems in order to aide the Colorado Board of Elections employee to accurately determine the winner of the local congressional election.
