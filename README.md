@@ -1,34 +1,35 @@
 # Election-Analysis-Module
 Using Python, Week 3
 
-## Project Overview
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recentl local congressional election.
+## Overview of Election Audit
+This project's main objective was to complete the election audit of a recent local congressional election in the state of Colorado.
 
 1. Calculate the total number of votes cast.
-2. Get a complete list of candidates who received votes.
-3. Calculate the total number of votes each candidate received.
-4. Calculate the percentage of votes each candidate won.
-5. Determine the winner of the election based on popular vote.
+2. Get a complete list of counties that casted votes.
+3. Determing the county with the largest turnout of voters.
+4. Get a complete list of candidates who received votes.
+5. Calculate the total number of votes each candidate received.
+6. Calculate the percentage of votes each candidate won.
+7. Determine the winner of the election based on popular vote.
 
-## Resources
-- Data Source: election_results.csv
-- Software: Python 3.6.1, Visual Studio Code 1.38.1
+## Election-Audit Results
+1. How many votes were cast in this congressional election?
 
-## Summary
-The analysis of the election show that:
-- There were 369,711 votes in the election.
-The candidates were:
-  - Charles Casper Stockham
-  - Diana DeGette
-  - Raymon Anthony Doane
--The candidate results were:
-  - Charles Casper Stockham received 23.0% of the vote and 85,213 votes.
-  -Diane DeGette received 73.8% of the vote and 272,892 votes.
-  -Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
-The winner of the election was Diane DeGetter with 73.8% of the vote and 272,892 votes total.
+There were 369, 711 votes casted in this congressional election.
+2. Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
-## Challenge Overview
-To utilize Python to achieve the election results and also utilizing Visual Studio Code to write out our Python code.
 
-## Challenge Summary
-To successfully utilize both systems in order to aide the Colorado Board of Elections employee to accurately determine the winner of the local congressional election.
+3. Which county had the largest number of votes?
+
+The county with the largest number of votes was Denver.
+
+4. Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+
+The number of total votes in this election was 369,711 votes. 
+
+5. Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
+Diana DeGette won the election with 272,892 votes and 73.8% of the total votes casted.
+
+## Election-Audit Summary
+
